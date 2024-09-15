@@ -1,0 +1,19 @@
+Source: keystore-explorer
+Section: security
+Priority: optional
+Maintainer: Sergey Ponomarev <stokito@gmail.com>
+Build-Depends: debhelper-compat (= 13), javahelper
+Standards-Version: 4.6.1
+Homepage: https://keystore-explorer.org/
+Rules-Requires-Root: no
+Vcs-Git: https://github.com/kaikramer/keystore-explorer.git
+Vcs-Browser: https://github.com/kaikramer/keystore-explorer
+Bugs: https://github.com/kaikramer/keystore-explorer/issues
+
+Package: keystore-explorer
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}, default-jre | java8-runtime
+Description: Multipurpose keystore and certificate tool
+ KeyStore Explorer is a user friendly GUI application for creating,
+ managing and examining keystores, keys, certificates, certificate requests,
+ certificate revocation lists and more.

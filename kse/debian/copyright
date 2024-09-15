@@ -1,0 +1,41 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: *
+Copyright: 2004-2013 Wayne Grant
+           2013-2024 Kai Kramer
+License:   GPL-3.0+
+ This file is part of KeyStore Explorer.
+ .
+ KeyStore Explorer is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ KeyStore Explorer is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with KeyStore Explorer.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ Version 3 can be found in `/usr/share/common-licenses/GPL-3'.
+
+
+Files:     licenses/bouncycastle.txt
+Copyright: 2000-2013 The Legion Of The Bouncy Castle (http://www.bouncycastle.org)
+License:   Expat
+
+Files:     licenses/java-info.txt
+Copyright: 2007 Free Software Foundation, Inc.
+           2020-2021 Bill Stewart (bstewart at iname.com)
+License:   GPL-3
+
+Files:     licenses/jgoodies.txt
+Copyright: 2001-2007 JGoodies Karsten Lentzsch.
+License:   BSD-3-Clause
+
+Files:     licenses/miglayout.txt
+Copyright: 2004 Mikael Grev, MiG InfoCom AB. (miglayout (at) miginfocom (dot) com)
+License:   BSD-3-Clause

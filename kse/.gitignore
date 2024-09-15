@@ -13,3 +13,8 @@
 .gradle
 .classpath
 .DS_Store
+/debian/keystore-explorer.substvars
+/debian/files
+/debian/debhelper-build-stamp
+/debian/.debhelper/
+/debian/keystore-explorer/
